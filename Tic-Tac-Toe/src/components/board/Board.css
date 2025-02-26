@@ -1,0 +1,7 @@
+.status {
+    border: 2px solid black;
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+    font-weight: bold;
+}
